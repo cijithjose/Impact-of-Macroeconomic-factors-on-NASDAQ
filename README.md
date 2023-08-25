@@ -1,6 +1,6 @@
 # Impact-of-Macroeconomic-factors-on-NASDAQ
 
-                                                                                     EXECUTIVE SUMMARY
+                                           EXECUTIVE SUMMARY
 
 The purpose of this study is to investigate the impact of macroeconomic and microeconomic variables on stock returns on the Nasdaq Stock Exchange. The research aims to identify the specific variables that have the greatest effect on stock prices and to understand the nature of the relationship between these variables and stock returns. Additionally, the study aims to examine how these variables interact with macroeconomic variables to influence stock prices. The research used a combination of univariate, bivariate, and multivariate analysis techniques to examine the relationship between macroeconomic and microeconomic variables and stock prices.
 
