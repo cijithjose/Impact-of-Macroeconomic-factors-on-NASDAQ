@@ -1,4 +1,5 @@
 # Impact-of-Macroeconomic-factors-on-NASDAQ
+
 EXECUTIVE SUMMARY
 
 The purpose of this study is to investigate the impact of macroeconomic and microeconomic variables on stock returns on the Nasdaq Stock Exchange. The research aims to identify the specific variables that have the greatest effect on stock prices and to understand the nature of the relationship between these variables and stock returns. Additionally, the study aims to examine how these variables interact with macroeconomic variables to influence stock prices. The research used a combination of univariate, bivariate, and multivariate analysis techniques to examine the relationship between macroeconomic and microeconomic variables and stock prices.
@@ -15,4 +16,24 @@ Hypothesis testing reflected that the variables such as Oil prices, National sec
 Other machine learning models such as decision tree, random forest, artificial neural network was also used, and the models and hyperparameters were tuned to arrive at higher accuracy scores. GridSearchCv helped in identifying the best hyperparameters to be used. Random Forest regressor was chosen as the best model and the model predicted Consumer price index and GDP has the highest impact on Nasdaq stock prices followed by trade imports and unemployment rate.
 
 The study recommends further research to confirm the validity of the model. It also suggests monitoring the impact of the COVID-19 pandemic on the economy. Investigating the effect of other macroeconomic variables such as interest rate and inflation on stock prices, using the Random Forest Regressor model 1 for prediction and analysis of stock prices on the Nasdaq Stock Exchange. Considering Consumer Price Index, GDP, trade exports and imports, and unemployment rate when making investment decisions in the stock market while exploring other machine learning models and techniques to investigate the effect of other global and local factors on stock prices and evaluating the results in the context of different stock markets and economies around the world.
+
+
+DISCUSSION
+
+
+The discussion section of this study aims to interpret and analyse the findings in relation to the research questions and objectives. This section will also examine the findings in the context of the existing literature on the topic, and draw conclusions about the overall significance of the results. Overall, the discussion section will provide valuable insight into the factors that drive stock returns on the Nasdaq Stock Exchange and inform investment decisions in the stock market.
+
+•	CPI results is similar with Parmar, 2013; Venkatraja, 2014; Kumar, 2014; Asmy at el. 2010 and Adam 2008 i.e. when the CPI is rising, it typically indicates inflation, which can lead to higher prices for goods and services and higher profits for companies. This in turn can lead to an increase in stock prices, as investors anticipate that the company will continue to make a profit. However, if the inflation rate is too high, it can erode the purchasing power of consumers and make it difficult for companies to maintain profitability, leading to a decrease in stock prices. Hence it is stated that the Consumer Price Index has a positive and significant effect on stock returns for listed companies in our research.
+
+•	When unemployment is high, consumer spending and economic growth tend to decrease, which can lead to lower profits for companies and a decrease in stock prices. Additionally, high unemployment can indicate a weaker economy, which can lead to a decrease in investor confidence and a decrease in demand for stocks. Conversely,  low unemployment can indicate a strong economy, which can lead to an increase in investor confidence and an increase in demand for stocks. As stated previously  that the unemployment rate has a negative and significant effect on stock returns as scene in the linear regression model in this research.
+
+•	The IPI is a measure of the change in the total inflation-adjusted value of output produced by manufacturers, mines, and utilities. When the IPI is declining, it typically indicates a decrease in industrial activity, which can lead to lower profits for companies and a decrease in stock prices which can lead to a decrease in investor confidence and a decrease in demand for stocks. Hence stated that the Industrial Production Index has a negative and significant effect on stock returns as observed through a linear regression model. The results are similar to (Patel, 2012).
+
+•	Trade Exports & imports , Monetary & Fiscal Policy, Government Spending and Financial Regulations have a minor impact on stock returns and its statistically significant variables as seen in the regression model. Trade Imports and Fiscal policy have a positive relation meaning with one unit increase in these factors may lead to decrease in stock prices. On the other hand an increase in unit of Trade Exports, Monetary Policy, Government spending and financial regulations tends to decrease the stock prices as per the regression coefficient derived in LR model 3.
+
+
+
+To conclude this study has practical implications for investors and policymakers in understanding the factors that drive stock returns on the Nasdaq Stock Exchange and making informed investment decisions. However, the study has its own limitations, and it is important that this analysis should be considered in light of the ongoing impact of the COVID-19 pandemic on the economy. It is recommended to consider these findings alongside other factors and conduct further research to fully understand the relationship between macroeconomic variables and stock prices. In summary, this study provides a valuable contribution to the literature on the relationship between microeconomic variables and stock prices on the Nasdaq Stock Exchange.
+![image](https://github.com/cijithjose/Impact-of-Macroeconomic-factors-on-NASDAQ/assets/98333115/f66936e5-347c-4d2a-ab77-668739419760)
+
 ![image](https://github.com/cijithjose/Impact-of-Macroeconomic-factors-on-NASDAQ/assets/98333115/236145e7-9a77-46e9-ae1f-78c660700c12)
