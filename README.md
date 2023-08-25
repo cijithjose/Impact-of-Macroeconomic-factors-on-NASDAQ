@@ -18,7 +18,7 @@ Other machine learning models such as decision tree, random forest, artificial n
 The study recommends further research to confirm the validity of the model. It also suggests monitoring the impact of the COVID-19 pandemic on the economy. Investigating the effect of other macroeconomic variables such as interest rate and inflation on stock prices, using the Random Forest Regressor model 1 for prediction and analysis of stock prices on the Nasdaq Stock Exchange. Considering Consumer Price Index, GDP, trade exports and imports, and unemployment rate when making investment decisions in the stock market while exploring other machine learning models and techniques to investigate the effect of other global and local factors on stock prices and evaluating the results in the context of different stock markets and economies around the world.
 
 
-                                                                                    DISCUSSION
+                           DISCUSSION
 
 
 The discussion section of this study aims to interpret and analyse the findings in relation to the research questions and objectives. This section will also examine the findings in the context of the existing literature on the topic, and draw conclusions about the overall significance of the results. Overall, the discussion section will provide valuable insight into the factors that drive stock returns on the Nasdaq Stock Exchange and inform investment decisions in the stock market.
